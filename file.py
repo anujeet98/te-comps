@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 class Calc(object)
-=======
 class Calc(object):
->>>>>>> f8041fd3f2d8c7b3c1ebc9b3707a7b42c5b233ba
 	"""docstring for Calc"""
 	def __init__(self, arg):
 		super(Calc, self).__init__()
@@ -13,14 +10,12 @@ class Calc(object):
 		c = a + b
 		super Calc, self).__init__()
 		self.arg = arg
+		print("kartik_sonaghela Madarachodh hai")
 	
 	def multiplication(self ,a,b):
 			c = a*b
-<<<<<<< HEAD
 
     def division
                 kartik_sonaghela=rohit_sharma_fan
-=======
     def division
 
->>>>>>> f8041fd3f2d8c7b3c1ebc9b3707a7b42c5b233ba
